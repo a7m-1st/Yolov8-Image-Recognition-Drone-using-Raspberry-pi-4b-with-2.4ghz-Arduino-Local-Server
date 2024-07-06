@@ -1,0 +1,1 @@
+This file should be the exported Yolo v8 model.
