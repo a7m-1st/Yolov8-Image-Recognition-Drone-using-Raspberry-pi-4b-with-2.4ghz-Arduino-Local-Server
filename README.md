@@ -1,6 +1,6 @@
 # Runner up for Mranti/Universiti Malaya RoboIoT competetion 2024- Software & Tech Division
 
-# Robo-IoT-2024
+# Robo-IoT-2024 (yolov8 model not included)
 Robo IoT drone project held between 25-Sep-2023 to 16-Mar-2024, this repository contains Software Backend used inside raspberry pi 4b
 
 # Tech Required
