@@ -22,7 +22,8 @@ Robo IoT drone project held between 25-Sep-2023 to 16-Mar-2024, this repository 
   
 # Tech Required
 (Drone)
-- Raspberry pi 4b 
+- Raspberry pi 4b
+- Pi camera
 - Neo 6m Gps
 - NRF24L01+ Transmitter & Reciever
 
